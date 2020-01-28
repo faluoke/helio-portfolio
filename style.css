@@ -1,0 +1,37 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 20px;
+}
+
+.header-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  color: rgb(108, 57, 175);
+}
+
+.header-container h1 {
+  color: rgb(207, 75, 75);
+}
+
+.skills {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+}
+
+.experience {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.education {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+}
